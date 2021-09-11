@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @prathams177
 - 👀 I’m interested in Javascript, Python, etc
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on react projects
 - 📫 How to reach me: mail:to prathams177@gmail.com 
 
 <!---
