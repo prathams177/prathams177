@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prathams177
-- 👀 I’m interested in Javascript, Python, etc
+- 👀 I’m interested in C , Javascript, Python, etc
 - 🌱 I’m currently learning React
 - 📫 How to reach me: mail:to prathams177@gmail.com 
 
